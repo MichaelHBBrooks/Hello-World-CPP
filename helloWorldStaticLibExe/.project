@@ -3,6 +3,7 @@
 	<name>helloWorldStaticLibExe</name>
 	<comment></comment>
 	<projects>
+		<project>myStaticLibrary</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
